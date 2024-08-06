@@ -1,0 +1,6 @@
+streamlit
+joblit
+py
+txt
+matplot.lib
+openpyxl
